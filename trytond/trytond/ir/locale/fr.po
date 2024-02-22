@@ -540,7 +540,7 @@ msgstr "Adresse"
 
 msgctxt "field:ir.email.address,email:"
 msgid "E-mail"
-msgstr "E-mail"
+msgstr "email"
 
 msgctxt "field:ir.email.template,body:"
 msgid "Body"
@@ -1819,7 +1819,7 @@ msgstr "Actions"
 
 msgctxt "model:ir.action,name:act_email_form"
 msgid "E-mails"
-msgstr "E-mails"
+msgstr "emails"
 
 msgctxt "model:ir.action,name:act_email_form_relate"
 msgid "E-mail Archives"
@@ -1827,7 +1827,7 @@ msgstr "Archives de courrier électronique"
 
 msgctxt "model:ir.action,name:act_email_template_form"
 msgid "E-mail Templates"
-msgstr "Modèles d'e-mail"
+msgstr "Modèles d'email"
 
 msgctxt "model:ir.action,name:act_error_form"
 msgid "Errors"
@@ -2256,7 +2256,7 @@ msgstr "Date"
 
 msgctxt "model:ir.email,name:"
 msgid "Email"
-msgstr "E-mail"
+msgstr "email"
 
 msgctxt "model:ir.email.address,name:"
 msgid "Email Address"
@@ -2264,11 +2264,11 @@ msgstr "Adresse électronique"
 
 msgctxt "model:ir.email.template,name:"
 msgid "Email Template"
-msgstr "Modèle d'e-mail"
+msgstr "Modèle d'email"
 
 msgctxt "model:ir.email.template-ir.action.report,name:"
 msgid "Email Template - Report"
-msgstr "Modèle d'e-mail - Rapport"
+msgstr "Modèle d'email - Rapport"
 
 msgctxt "model:ir.error,name:"
 msgid "Error"
@@ -2647,7 +2647,7 @@ msgid ""
 "Invalid body in e-mail template \"%(template)s\" with exception "
 "\"%(exception)s\"."
 msgstr ""
-"Corps non valide dans le modèle d'e-mail « %(template)s » avec l'exception "
+"Corps non valide dans le modèle d'email « %(template)s » avec l'exception "
 "« %(exception)s »."
 
 msgctxt "model:ir.message,text:msg_email_template_invalid_field_pyson"
@@ -2655,7 +2655,7 @@ msgid ""
 "Invalid PYSON %(field)s in e-mail template \"%(template)s\" with exception "
 "\"%(exception)s\"."
 msgstr ""
-"PYSON %(field)s non valide dans le modèle d'e-mail « %(template)s » avec "
+"PYSON %(field)s non valide dans le modèle d'email « %(template)s » avec "
 "l'exception « %(exception)s »."
 
 msgctxt "model:ir.message,text:msg_email_template_invalid_field_pyson_type"
@@ -2663,7 +2663,7 @@ msgid ""
 "The PYSON %(field)s in e-mail template \"%(template)s\" must generate a "
 "list."
 msgstr ""
-"Le PYSON %(field)s dans le modèle d'e-mail « %(template)s » doit générer une"
+"Le PYSON %(field)s dans le modèle d'email « %(template)s » doit générer une"
 " liste."
 
 msgctxt "model:ir.message,text:msg_email_template_invalid_subject"
@@ -2671,7 +2671,7 @@ msgid ""
 "Invalid subject in e-mail template \"%(template)s\" with exception "
 "\"%(exception)s\"."
 msgstr ""
-"Objet non valide dans le modèle d'e-mail « %(template)s » avec l'exception "
+"Objet non valide dans le modèle d'email « %(template)s » avec l'exception "
 "« %(exception)s »."
 
 msgctxt "model:ir.message,text:msg_field_model_name"
@@ -2806,7 +2806,7 @@ msgstr "Relation introuvable : « %(value)r » sur « %(model)s » (%(colu
 
 msgctxt "model:ir.message,text:msg_report_invalid_email"
 msgid "Invalid email definition for report \"%(name)s\"."
-msgstr "Définition d' e-mail incorrecte pour le rapport « %(name)s »."
+msgstr "Définition d' email incorrecte pour le rapport « %(name)s »."
 
 msgctxt "model:ir.message,text:msg_report_invalid_record_name"
 msgid ""
@@ -3293,11 +3293,11 @@ msgstr "Actions"
 
 msgctxt "model:ir.ui.menu,name:menu_email_form"
 msgid "E-mails"
-msgstr "E-mails"
+msgstr "emails"
 
 msgctxt "model:ir.ui.menu,name:menu_email_template_form"
 msgid "E-mail Templates"
-msgstr "Modèles d'e-mail"
+msgstr "Modèles d'email"
 
 msgctxt "model:ir.ui.menu,name:menu_error_form"
 msgid "Errors"
@@ -4027,7 +4027,7 @@ msgstr "Incrémental"
 
 msgctxt "view:ir.sequence:"
 msgid "Legend (Placeholders for prefix, suffix)"
-msgstr "Légende (charactère pour le préfixe, le suffixe)"
+msgstr "Légende (caractère pour le préfixe, le suffixe)"
 
 msgctxt "view:ir.sequence:"
 msgid "Month:"

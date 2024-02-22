@@ -160,7 +160,7 @@ msgstr "URL du badge avatar"
 
 msgctxt "field:res.user,email:"
 msgid "Email"
-msgstr "E-mail"
+msgstr "email"
 
 msgctxt "field:res.user,groups:"
 msgid "Groups"
@@ -341,7 +341,7 @@ msgstr "Groupe de modification d'export"
 msgctxt "model:ir.message,text:msg_password_email"
 msgid "The password cannot be the same as user's email address."
 msgstr ""
-"Le mot de passe ne peut pas être le même que l'adresse e-mail de "
+"Le mot de passe ne peut pas être le même que l'adresse email de "
 "l'utilisateur."
 
 msgctxt "model:ir.message,text:msg_password_forbidden"
@@ -375,7 +375,7 @@ msgstr "Mot de passe pour %(login)s"
 
 msgctxt "model:ir.model.button,help:user_reset_password_button"
 msgid "Send by email a new temporary password to the user"
-msgstr "Envoie par e-mail un nouveau mot de passe temporaire à l'utilisateur"
+msgstr "Envoie par email un nouveau mot de passe temporaire à l'utilisateur"
 
 msgctxt "model:ir.model.button,string:user_application_cancel_button"
 msgid "Cancel"

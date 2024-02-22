@@ -71,7 +71,7 @@ msgid ""
 "To validate shipment \"%(shipment)s\" you must add an email for address "
 "\"%(address)s\"."
 msgstr ""
-"Pour valider l'expédition « %(shipment)s », vous devez ajouter un e-mail à "
+"Pour valider l'expédition « %(shipment)s », vous devez ajouter un email à "
 "l'adresse « %(address)s »."
 
 msgctxt "model:ir.message,text:msg_mobile_required"

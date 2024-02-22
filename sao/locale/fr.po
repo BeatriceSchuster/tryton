@@ -72,7 +72,7 @@ msgid "Print"
 msgstr "Imprimer"
 
 msgid "E-Mail"
-msgstr "E-mail"
+msgstr "email"
 
 msgid "Previous tab"
 msgstr "Onglet précédent"
@@ -308,10 +308,10 @@ msgid "Add a note to the record"
 msgstr "Ajouter une note à l'enregistrement"
 
 msgid "E-Mail..."
-msgstr "E-mail..."
+msgstr "email..."
 
 msgid "Send an e-mail using the record"
-msgstr "Envoyer un e-mail en utilisant l'enregistrement"
+msgstr "Envoyer un email en utilisant l'enregistrement"
 
 msgid "Export"
 msgstr "Exporter"
@@ -685,7 +685,7 @@ msgstr[0] "%1 enregistrement sauvegardé"
 msgstr[1] "%1 enregistrements sauvegardés"
 
 msgid "E-mail %1"
-msgstr "E-mail %1"
+msgstr "email %1"
 
 msgid "To:"
 msgstr "À :"

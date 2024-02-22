@@ -164,7 +164,7 @@ msgstr "Produit"
 
 msgctxt "field:commission.reporting.agent,agent:"
 msgid "Agent"
-msgstr "Agent"
+msgstr "Protocole"
 
 msgctxt "field:commission.reporting.agent,amount:"
 msgid "Amount"

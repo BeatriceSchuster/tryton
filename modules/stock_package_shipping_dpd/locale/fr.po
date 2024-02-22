@@ -98,7 +98,7 @@ msgstr "Identifiants DPD"
 
 msgctxt "selection:carrier,dpd_notification:"
 msgid "E-Mail"
-msgstr "E-Mail"
+msgstr "email"
 
 msgctxt "selection:carrier,dpd_notification:"
 msgid "SMS"

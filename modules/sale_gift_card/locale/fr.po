@@ -82,7 +82,7 @@ msgstr "Valeur"
 
 msgctxt "field:sale.line,gift_card_email:"
 msgid "Gift Card Email"
-msgstr "E-mail de la carte cadeau"
+msgstr "email de la carte cadeau"
 
 msgctxt "field:sale.line,gift_cards:"
 msgid "Gift Cards"
@@ -102,7 +102,7 @@ msgstr "Cartes cadeaux"
 
 msgctxt "field:sale.point.sale.line,gift_card_email:"
 msgid "Gift Card Email"
-msgstr "E-mail de la carte cadeau"
+msgstr "email de la carte cadeau"
 
 msgctxt "field:sale.point.sale.line,gift_cards:"
 msgid "Gift Cards"
@@ -126,7 +126,7 @@ msgstr "Devise"
 
 msgctxt "field:sale.point.sale.pay.gift_card,email:"
 msgid "Email"
-msgstr "E-mail"
+msgstr "email"
 
 msgctxt "field:sale.point.sale.pay.gift_card,product:"
 msgid "Product"
@@ -150,11 +150,11 @@ msgstr "Cartes cadeaux requises"
 
 msgctxt "help:sale.line,gift_card_email:"
 msgid "Leave empty for the customer email."
-msgstr "Laissez vide pour l'e-mail du client."
+msgstr "Laissez vide pour l'email du client."
 
 msgctxt "help:sale.point.sale.line,gift_card_email:"
 msgid "Leave empty for the customer email."
-msgstr "Laissez vide pour l'e-mail du client."
+msgstr "Laissez vide pour l'email du client."
 
 msgctxt "model:account.configuration.gift_card_account,name:"
 msgid "Account Configuration Gift Card Account"

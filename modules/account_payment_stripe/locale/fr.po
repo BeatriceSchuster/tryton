@@ -497,7 +497,7 @@ msgstr "Check-out"
 msgctxt "report:account.payment.stripe.email_checkout:"
 msgid "If you didn't make this request, you can ignore this email."
 msgstr ""
-"Si vous n'avez pas fait cette demande, vous pouvez ignorer cet e-mail."
+"Si vous n'avez pas fait cette demande, vous pouvez ignorer cet email."
 
 msgctxt "report:account.payment.stripe.email_checkout:"
 msgid "You need to authorize the payment"

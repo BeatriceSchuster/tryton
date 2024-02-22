@@ -4,15 +4,15 @@ msgstr "Content-Type: text/plain; charset=utf-8\n"
 
 msgctxt "field:web.user,email:"
 msgid "E-mail"
-msgstr "E-mail"
+msgstr "email"
 
 msgctxt "field:web.user,email_token:"
 msgid "E-mail Token"
-msgstr "Jeton d'E-mail"
+msgstr "Jeton d'email"
 
 msgctxt "field:web.user,email_valid:"
 msgid "E-mail Valid"
-msgstr "E-mail valide"
+msgstr "email valide"
 
 msgctxt "field:web.user,party:"
 msgid "Party"
@@ -84,11 +84,11 @@ msgstr "Réinitialiser le mot de passe"
 
 msgctxt "model:ir.action,name:report_email_validation"
 msgid "Email Validation"
-msgstr "E-mail de validation"
+msgstr "email de validation"
 
 msgctxt "model:ir.message,text:msg_user_email_unique"
 msgid "E-mail of active web user must be unique."
-msgstr "L’E-mail d'un utilisateur web actif doit être unique."
+msgstr "L’email d'un utilisateur web actif doit être unique."
 
 msgctxt "model:ir.message,text:msg_user_session_key_unique"
 msgid "Web user session key must be unique."
@@ -100,7 +100,7 @@ msgstr "Réinitialiser le mot de passe"
 
 msgctxt "model:ir.model.button,string:user_validate_email_button"
 msgid "Validate E-mail"
-msgstr "Valider l'e-mail"
+msgstr "Valider l'email"
 
 msgctxt "model:ir.ui.menu,name:menu_user_form"
 msgid "Web Users"
@@ -129,7 +129,7 @@ msgstr "Le bouton ne fonctionne pas ? Copier ceci dans votre navigateur :"
 msgctxt "report:web.user.email_reset_password:"
 msgid "If you didn't make this request, you can ignore this email."
 msgstr ""
-"Si vous n'avez pas fait cette demande, vous pouvez ignorer cet E-mail."
+"Si vous n'avez pas fait cette demande, vous pouvez ignorer cet email."
 
 msgctxt "report:web.user.email_reset_password:"
 msgid "Reset Password"
@@ -156,11 +156,11 @@ msgstr "Le bouton ne fonctionne pas ? Copier ceci dans votre navigateur :"
 
 msgctxt "report:web.user.email_validation:"
 msgid "Email Validation"
-msgstr "Validation d'E-mail"
+msgstr "Validation d'email"
 
 msgctxt "report:web.user.email_validation:"
 msgid "If you received this email by mistake, just ignore it."
-msgstr "Si vous avez reçu cet E-mail par erreur, ignorez le."
+msgstr "Si vous avez reçu cet email par erreur, ignorez le."
 
 msgctxt "report:web.user.email_validation:"
 msgid "Just one more step.."
@@ -176,4 +176,4 @@ msgstr "Réinitialiser le mot de passe"
 
 msgctxt "view:web.user:"
 msgid "Validate E-mail"
-msgstr "Valider l'E-mail"
+msgstr "Valider l'email"

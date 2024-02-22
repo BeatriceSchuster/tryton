@@ -128,7 +128,7 @@ msgstr "Commentaire"
 
 msgctxt "field:party.contact_mechanism,email:"
 msgid "E-Mail"
-msgstr "E-mail"
+msgstr "email"
 
 msgctxt "field:party.contact_mechanism,language:"
 msgid "Language"
@@ -236,7 +236,7 @@ msgstr "Distance"
 
 msgctxt "field:party.party,email:"
 msgid "E-Mail"
-msgstr "E-Mail"
+msgstr "email"
 
 msgctxt "field:party.party,fax:"
 msgid "Fax"
@@ -308,7 +308,7 @@ msgstr "Source"
 
 msgctxt "help:ir.email.template,contact_mechanism:"
 msgid "Define which email address to use from the party's contact mechanisms."
-msgstr "Définit quel e-mail utiliser des mécanismes de contact du tiers."
+msgstr "Définit quel email utiliser des mécanismes de contact du tiers."
 
 msgctxt "help:party.address,party_name:"
 msgid "If filled, replace the name of the party for address formatting"
@@ -1229,7 +1229,7 @@ msgstr "Numéro fiscal vietnamien"
 
 msgctxt "selection:party.contact_mechanism,type:"
 msgid "E-Mail"
-msgstr "E-Mail"
+msgstr "email"
 
 msgctxt "selection:party.contact_mechanism,type:"
 msgid "Fax"
